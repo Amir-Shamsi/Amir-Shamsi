@@ -1,5 +1,7 @@
 <p align='center'>
-  <img align="center" src="header.png"  width="1000px" />
+   <a href="https://github.com/Amir-Shamsi">
+      <img align="center" src="header.png"  width="1000px" />
+   </a>
 </p>
 
 # Hi there ❤️ <img src="wave.gif" width="30px">
@@ -19,10 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align='center'>
-  <a href="https://github.com/Amir-Shamsi/Amir-Shamsi">
+  <a href="https://github.com/Amir-Shamsi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Shamsi&hide=java,html,tex&&theme=radical&langs_count=3" />
   </a>
-  <a href="https://github.com/Amir-Shamsi/Amir-Shamsi">
+  <a href="https://github.com/Amir-Shamsi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=radical" height=204.7              alt="Amir's GitHub Stats" />
   </a>
 </p>
