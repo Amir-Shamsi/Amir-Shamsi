@@ -1,4 +1,8 @@
-### Hi there ❤️
+<p align='center'>
+  <img align="center" src="header.png"  width="1000px" />
+</p>
+
+# Hi there ❤️ <img src="wave.gif" width="30px">
 
 <!--
 **Amir-Shamsi/Amir-Shamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
