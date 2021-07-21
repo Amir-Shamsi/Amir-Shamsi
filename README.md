@@ -4,7 +4,7 @@
    </a>
 </p>
 
-# Hi there ❤️ <img src="wave.gif" width="30px">
+# Hi there ❤️ <a href="https://github.com/Amir-Shamsi"><img src="wave.gif" width="30px"></a>
 
 <!--
 **Amir-Shamsi/Amir-Shamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
