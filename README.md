@@ -6,20 +6,19 @@
 
 # Hi there ❤️ <a href="#"><img src="wave.gif" width="30px"></a>
 
-<!--
-**Amir-Shamsi/Amir-Shamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://linkedin.com/in/amir-shamsi">
+      <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg"  />
+   </a>
+   <a href="mailto:AmirShamsi.github@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/gmail-D14836"  />
+   </a>
+   <a href="https://instagram.com/astro_emir">
+      <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg"  />
+   </a>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align='center'>
    <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=great-gatsby" height=204.8              alt="Amir's GitHub Stats" />
