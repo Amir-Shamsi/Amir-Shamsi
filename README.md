@@ -21,7 +21,7 @@
 
 <p align='center'>
    <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=great-gatsby" height=204.8              alt="Amir's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsAmirShamsi&show_icons=true&line_height=27&count_private=true1&theme=great-gatsby" height=204.8              alt="Amir's GitHub Stats" />
   </a>
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Shamsi&hide=java,html,tex&&theme=great-gatsby&langs_count=3" />
