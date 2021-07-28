@@ -28,5 +28,7 @@
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Shamsi&hide=java,html,tex&&theme=great-gatsby&langs_count=3" />
   </a>
+   
+   <h3 align='center'>You can see my GitLab I'm active there too 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab</a></h3>
   
 </p>
