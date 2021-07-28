@@ -8,15 +8,17 @@
 
 <p align='center'>
    <a href="https://linkedin.com/in/ItsAmirShamsi">
-      <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg"  />
-   </a>
-   <a href="mailto:AmirShamsi.github@gmail.com">
-      <img align="center" src="https://img.shields.io/badge/gmail-D14836"  />
+      <img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg"  />
    </a>
    <a href="https://instagram.com/astro_emir">
-      <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg"  />
+      <img align="center" src="https://img.shields.io/badge/Instagram-%D14836.svg"  />
    </a>
-
+   <a href="mailto:AmirShamsi.github@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/Gmail-D14836"  />
+   </a>
+   <a href="https://https://gitlab.com/Amir-Shamsi">
+      <img align="center" src="https://img.shields.io/badge/Gitlab-%230077B5.svg"  />
+   </a>
 </p>
 
 <p align='center'>
