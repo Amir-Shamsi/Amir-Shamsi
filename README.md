@@ -19,6 +19,7 @@
    <a href="https://https://gitlab.com/Amir-Shamsi">
       <img align="center" src="https://img.shields.io/badge/Gitlab-%230077B5.svg"  />
    </a>
+
 </p>
 
 <p align='center'>
@@ -28,7 +29,11 @@
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Shamsi&hide=java,html,tex&&theme=great-gatsby&langs_count=3" />
   </a>
-   
-   <h3 align='center'>You can see my GitLab I'm active there too 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab</a></h3>
-  
+   <p>
+      <h3 align='center'>You can see my GitLab I'm active there too 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab
+         <a href="https://gitlab.com/Amir-Shamsi">
+            <img align="center" alt="Amir Shamsi's gitlab" width="40px"                       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" /></a>
+         </a>
+      </h3>
+  </p>
 </p>
