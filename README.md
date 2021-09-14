@@ -19,21 +19,28 @@
    <a href="https://https://gitlab.com/Amir-Shamsi">
       <img align="center" src="https://img.shields.io/badge/Gitlab-%230077B5.svg"  />
    </a>
-
 </p>
 
 <p align='center'>
    <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=great-gatsby" height=204.8              alt="Amir's GitHub Stats" />
-  </a>
-  <a href="#">
+   </a>
+   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Shamsi&hide=java,html,tex&&theme=great-gatsby&langs_count=3" />
-  </a>
+   </a>
    <p>
       <h3 align='center'>You can follow me on GitLab, Seems I'm active there too, mate 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab
          <a href="https://gitlab.com/Amir-Shamsi">
-            <img align="center" alt="Amir Shamsi's gitlab" width="40px"                       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" /></a>
+            <img align="center" alt="Amir Shamsi's gitlab" width="40px"                       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" />
+         </a>
          </a>
       </h3>
   </p>
 </p>
+<hr size="" width="" color=""></hr>
+
+### I'm currently working in these projects
+* [Iranian Red Crescent Society (IRCS)](https://edu.khadem.ir/)
+* [Iran MD](https://iranmd.ir/)
+* [Building Advisor](https://buildingadvisor.ir/en/)
+
