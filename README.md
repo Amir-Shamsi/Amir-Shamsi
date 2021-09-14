@@ -39,7 +39,7 @@
 </p>
 <hr size="" width="" color=""></hr>
 
-### I'm currently working in these projects
+### I'm currently working in these projects:
 * [Iranian Red Crescent Society (IRCS)](https://edu.khadem.ir/)
 * [Iran MD](https://iranmd.ir/)
 * [Building Advisor](https://buildingadvisor.ir/en/)
