@@ -37,7 +37,7 @@
       </h3>
   </p>
 </p>
-<h3>I'm currently working in these projects<h3>
+<h3>I'm currently working in these projects</h3>
 * [Iranian Red Crescent Society (IRCS)](https://edu.khadem.ir/)
 * [Iran MD](https://iranmd.ir/)
 * [Building Advisor](https://buildingadvisor.ir/en/)
