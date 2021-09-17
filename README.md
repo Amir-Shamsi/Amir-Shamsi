@@ -29,7 +29,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Shamsi&hide=java,html,tex&&theme=great-gatsby&langs_count=3" />
    </a>
    <p>
-      <h3 align='center'>You can follow me on GitLab, Seems I'm active there too, mate 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab
+      <h3 align='center' style='border-radius: 6px;border: solid 0.5px wheat;'>You can follow me on GitLab, Seems I'm active there too, mate 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab
          <a href="https://gitlab.com/Amir-Shamsi">
             <img align="center" alt="Amir Shamsi's gitlab" width="40px"                       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" />
          </a>
@@ -44,3 +44,6 @@
 * [Iran MD](https://iranmd.ir/)
 * [Building Advisor](https://buildingadvisor.ir/en/)
 
+<hr size="" width="" color=""></hr>
+
+![](https://activity-graph.herokuapp.com/graph?username=amir-shamsi&theme=redical)
