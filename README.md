@@ -46,4 +46,4 @@
 
 <hr size="" width="" color=""></hr>
 
-![](https://activity-graph.herokuapp.com/graph?username=amir-shamsi&theme=redical)
+![](https://camo.githubusercontent.com/17b3045ab15afb1c24c65e857e16015a2364c87ce14277e2ef13df47bd22b43a/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d616d69722d7368616d7369267468656d653d7265646963616c)
