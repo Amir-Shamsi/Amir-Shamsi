@@ -7,7 +7,7 @@
 # Hi there 🤍 👋
 
 <p align='center'>
-   <a href="https://linkedin.com/in/ItsAmirShamsi">
+   <a href="https://linkedin.com/in/AmirShamsi">
       <img align="center" src="https://img.shields.io/badge/Linkedin-%230077B5.svg"  />
    </a>
    <a href="https://instagram.com/astro_emir">
