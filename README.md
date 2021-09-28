@@ -23,10 +23,10 @@
 
 <p align='center'>
    <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=great-gatsby" height=204.8              alt="Amir's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=great-gatsby" height=190.8              alt="Amir's GitHub Stats" />
    </a>
    <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-shamsi&layout=compact&theme=great-gatsby&langs_count=8" height=204.8 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-shamsi&layout=compact&theme=great-gatsby&langs_count=8" height=190.8 />
    </a>
    <p>
       <h3 align='center' style='border-radius: 6px;border: solid 0.5px wheat;'>You can meet me on GitLab, Seems I'm active there too, mate 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab</a> <a href="https://gitlab.com/Amir-Shamsi"><img align="center" alt="Amir Shamsi's gitlab" width="40px"                       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" />
