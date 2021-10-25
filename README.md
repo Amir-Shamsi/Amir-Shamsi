@@ -16,7 +16,7 @@
    <a href="mailto:AmirShamsi.github@gmail.com">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836"  />
    </a>
-   <a href="https://https://gitlab.com/Amir-Shamsi">
+   <a href="https://gitlab.com/Amir-Shamsi">
       <img align="center" src="https://img.shields.io/badge/Gitlab-%230077B5.svg"  />
    </a>
 </p>
