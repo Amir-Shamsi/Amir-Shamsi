@@ -4,7 +4,7 @@
    </a>
 </p>
 
-# Hi there 🤍 👋
+# Hi there 🤍
 
 <p align='center'>
    <a href="https://linkedin.com/in/Amir-Shamsi">
