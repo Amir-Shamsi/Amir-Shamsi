@@ -4,7 +4,7 @@
    </a>
 </p>
 
-# Hi there 🤍
+# Hi there 👾
 
 <p align='center'>
    <a href="https://linkedin.com/in/Amir-Shamsi">
@@ -37,6 +37,10 @@
 <hr size="" width="" color=""></hr>
 
 ### I'm currently working in these projects:
+* [SpAlgp](https://github.com/Amir-Shamsi/SpAlgo)
+* [Persian Validator](https://github.com/Amir-Shamsi/)
+
+### Some of web projects I worked in:
 * [Iranian Red Crescent Society (IRCS)](https://edu.khadem.ir/)
 * [Iran MD](https://iranmd.ir/)
 * [Building Advisor](https://buildingadvisor.ir/en/)
