@@ -40,7 +40,7 @@
 * [SpAlgp](https://github.com/Amir-Shamsi/SpAlgo)
 * [Persian Validator](https://github.com/Amir-Shamsi/)
 
-### Some of web projects I worked in:
+### Some of web projects I've worked in:
 * [Iranian Red Crescent Society (IRCS)](https://edu.khadem.ir/)
 * [Iran MD](https://iranmd.ir/)
 * [Building Advisor](https://buildingadvisor.ir/en/)
