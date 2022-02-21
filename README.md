@@ -23,10 +23,10 @@
 
 <p align='center'>
    <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=great-gatsby" height=190.8              alt="Amir's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=dracula" height=190.8              alt="Amir's GitHub Stats" />
    </a>
    <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-shamsi&layout=compact&theme=great-gatsby&langs_count=8" height=190.8 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-shamsi&layout=compact&theme=dracula&langs_count=8" height=190.8 />
    </a>
    <p>
       <h3 align='center' style='border-radius: 6px;border: solid 0.5px wheat;'>You can meet me on GitLab, Seems I'm active there too, mate 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab</a> <a href="https://gitlab.com/Amir-Shamsi"><img align="center" alt="Amir Shamsi's gitlab" width="40px"                       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" />
@@ -47,4 +47,4 @@
 
 <hr size="" width="" color=""></hr>
 
-![](https://camo.githubusercontent.com/17b3045ab15afb1c24c65e857e16015a2364c87ce14277e2ef13df47bd22b43a/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d616d69722d7368616d7369267468656d653d7265646963616c)
+![](https://activity-graph.herokuapp.com/graph?username=amir-shamsi&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
