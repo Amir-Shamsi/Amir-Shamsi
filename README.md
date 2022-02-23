@@ -30,7 +30,11 @@
    <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-shamsi&layout=compact&theme=dracula&langs_count=8" height=190.8 />
    </a>
-   <p>
+   
+   <!--
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-shamsi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+   -->   
+<p>
       <h3 align='center' style='border-radius: 6px;border: solid 0.5px wheat;'>You can meet me on GitLab, Seems I'm active there too, mate 🙂 <a href="https://gitlab.com/Amir-Shamsi">My GitLab</a> <a href="https://gitlab.com/Amir-Shamsi"><img align="center" alt="Amir Shamsi's gitlab" width="40px"                       src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/gitlab.svg" />
          </a>
       </h3>
