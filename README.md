@@ -43,7 +43,7 @@
 <hr size="" width="" color=""></hr>
 
 ### I'm currently working in these projects:
-* [SpAlgp](https://github.com/Amir-Shamsi/SpAlgo)
+* [SpAlgo](https://github.com/Amir-Shamsi/SpAlgo)
 * [Persian Validator](https://github.com/Amir-Shamsi/)
 
 ### Some of web projects I've worked in:
