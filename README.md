@@ -1,12 +1,12 @@
-<!-- 
+
 <p align='center'>
    <a href="#">
-      <img align="center" src="header.png"  width="1000px" />
+      <img align="center" src="prof-banner.svg"/>
    </a>
 </p>
--->
 
-# Hi there 🏝
+
+<!-- # Hi there 🏝 -->
 
 <p align='center'>
    <a href="https://linkedin.com/in/Amir-Shamsi">
