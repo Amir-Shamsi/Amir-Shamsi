@@ -1,7 +1,7 @@
 
 <p align='center'>
    <a href="#">
-      <img align="center" src="banner.svg"/>
+      <img align="center" src="the-banner.svg"/>
    </a>
 </p>
 
