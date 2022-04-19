@@ -69,8 +69,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: bottom.svg
-          token: ${{ secrets.METRICS }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
 #           config_order: ""
           plugin_followup: yes
