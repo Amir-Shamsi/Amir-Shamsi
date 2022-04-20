@@ -35,10 +35,10 @@
 
 <p align='center'>
    <a href="#">
-      <img align="center" src="bottom.svg" width="auto"/>
+      <img align="center" src="bottom.svg" width="350"/>
    </a>
    <a href="#">
-      <img align="center" src="my-bio.svg" width="500"/>
+      <img align="center" src="my-bio.svg" width="450"/>
    </a>
 </p>
 <!-- # Hi there 🏝 -->
