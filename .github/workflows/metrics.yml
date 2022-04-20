@@ -1,7 +1,7 @@
 name: bigass metrics
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "0 0 * * *"
   push:
     branches:
       - master
@@ -90,5 +90,3 @@ jobs:
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-      
-      - name
