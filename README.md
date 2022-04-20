@@ -45,11 +45,12 @@
 
 
 <p align='center'>
-   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=dracula" height=190.8              alt="Amir's GitHub Stats" />
-   </a>
+   
    <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-shamsi&layout=compact&theme=dracula&langs_count=8" height=190.8 />
+   </a>
+   <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir-Shamsi&show_icons=true&line_height=27&count_private=true1&theme=dracula" height=190.8              alt="Amir's GitHub Stats" />
    </a>
    
    <!--
