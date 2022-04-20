@@ -30,7 +30,7 @@ jobs:
           config_timezone: Asia/Tokyo
 #           plugin_followup: yes
 #           plugin_followup_sections: repositories
-          plugin_anilist: yes
+          plugin_anilist: no
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: characters, watching, reading, favorites
           plugin_anilist_limit: 2
