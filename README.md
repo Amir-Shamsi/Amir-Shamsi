@@ -25,6 +25,10 @@
    <a href="mailto:AmirShamsi.github@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=White" /></a>
    <a href="https://t.me/ItsAmirShamsi" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%2312100E.svg?&style=for-the-badge&logo=telegram" /></a>
    <a href="https://stackoverflow.com/users/12852807/amir-shamsi" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow" /></a> 
+   <br>
+   <a href="#">
+      <img alt="profile visit" src="https://profile-counter.glitch.me/amir-shamsi/count.svg" width="200"/> 
+   </a>
 </p>
 
 <p align='center'>
