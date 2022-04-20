@@ -37,7 +37,7 @@
    <a href="#">
       <img align="center" src="bottom.svg" width="350"/>
    </a>
-   <a href="#">
+   <a href="my-bio.svg">
       <img align="center" src="my-bio.svg" width="450"/>
    </a>
 </p>
