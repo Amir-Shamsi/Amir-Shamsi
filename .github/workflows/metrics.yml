@@ -27,7 +27,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_display: large
           config_padding: 0, 3%
-          config_timezone: Asia/Tokyo
+          config_timezone: Asia/Tehran
 #           plugin_followup: yes
 #           plugin_followup_sections: repositories
 #           plugin_anilist: no
