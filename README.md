@@ -98,8 +98,9 @@
       </h3>
   </p>
 </p>
+<!--
 <hr size="" width="" color=""></hr>
-
+<!--
 ### I'm currently working in these projects:
 * [SpAlgo](https://github.com/Amir-Shamsi/SpAlgo)
 * [Tocode](https://github.com/Amir-Shamsi/tocode)
@@ -109,10 +110,10 @@
 * [Iranian Red Crescent Society (IRCS)](https://edu.khadem.ir/)
 * [Iran MD](https://iranmd.ir/)
 * [Building Advisor](https://buildingadvisor.ir/en/)
-
+<!--
 <hr size="" width="" color=""></hr>
-
+<!--
 <a href="#">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=amir-shamsi&theme=xcode&color=ff809d&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Amir's GitHub graph" />
    </a>
--->
+--->
